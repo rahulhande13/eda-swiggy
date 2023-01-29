@@ -1,5 +1,13 @@
 # Exploratory Data Analysis of Swiggy.
 
+Check out the Google Colab notebook: https://jovian.com/rahulhande2780/final-swiggy-data-analysis-1#C2
+
+## Introduction
+
+Swiggy is an Indian online food ordering and delivery platform. Founded in July 2014, Swiggy is based in Bangalore and operates in 500 Indian+ cities. Besides food delivery, Swiggy also provides on-demand grocery deliveries under the name Instamart, and a same-day package delivery service called Swiggy Genie.
+
+## About Exploratory Data Analysis.
+
 Exploratory Data Analysis (EDA) is an approach to analyzing and summarizing datasets, with the goal of discovering patterns, anomalies, and other insights that can inform further analysis and modeling efforts.
 
 EDA typically involves visualizing data using plots and graphs, as well as statistical summaries and tests to uncover patterns and relationships in the data.
